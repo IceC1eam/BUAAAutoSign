@@ -10,7 +10,7 @@
 
 1 安装依赖
 ```
-mvn clean package
+mvn clean install
 ```
 
 2 运行
